@@ -17,7 +17,7 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 
 ## Projects
 
-### Information Service Engineering MOOC at openHPI
+### Information Service Engineering MOOC at [openHPI](https://open.hpi.de/)
 
 In today's world, access to and availability of information are almost unlimited. As a result, we need search engines and intelligent programs to process these vast amounts of data. It is crucial to achieve ever more precise, more complete, and more reliable results when searching for and linking knowledge. This is achieved, for example, by systems that detect and correct errors. In this course, Prof. Sack and his colleague, Dr. Maria Koutraki will introduce methods that enable the transition from raw data to well-structured knowledge. ”We will demonstrate how natural language texts can be analyzed using statistical models and machine learning, and how this information can be described with the help of formal knowledge representation.” Prof. Sack explains. He will also show how automated image and video analysis function, how handwritten messages are translated into machine-readable language, and how computers programs are able to read printed texts.
 
