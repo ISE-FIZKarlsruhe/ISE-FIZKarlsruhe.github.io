@@ -22,7 +22,7 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 Starting from April 16, 2018, Harald Sack and Maria Koutraki will offer the 6-week Information Service Engineering mooc course at [openHPI](https://open.hpi.de/). 
 
 This course addresses students of computer science, data and web scientists, and anyone who is interested in the combination of semantic search and machine learning.
-For further information and to enroll at openHPI please visit: https://open.hpi.de/courses/semanticweb2017
+For further information and to enroll at openHPI please visit: [https://open.hpi.de/courses/semanticweb2017](https://open.hpi.de/courses/semanticweb2017)
 
 
 
