@@ -9,7 +9,7 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 - Prof. Dr. Harald Sack
 - Dr. Maria Koutraki
 - Farshad Bakhshandegan-Moghaddam
-- Russa Biwas
+- Russa Biswas
 - Tabea Tietz
 - Rima Türker
 
