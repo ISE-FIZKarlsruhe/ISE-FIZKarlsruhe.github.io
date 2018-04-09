@@ -15,7 +15,7 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 
 ### Student co-workers
 
-- Philipp Skudlik
 - Daniela Kaun
+- Philipp Skudlik
 
 
