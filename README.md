@@ -13,9 +13,9 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 - Tabea Tietz
 - Rima Türker
 
-#### Student co-workers
+### Student co-workers
 
-- 
-- 
+- Philipp Skudlik
+- Daniela Kaun
 
 
