@@ -4,16 +4,16 @@ In order to develop and provide new information services, the research departmen
 
 Webpage of the Information Service Engineering department at [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering.html)
 
-### ISE Research Team
+### ISE Team
 
-- Prof. Dr. Harald Sack
-- Dr. Maria Koutraki (Post-Doc)
+- [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack) 
+- Vivien Vetter (Team Assistant)
+- [Dr. Maria Koutraki](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-dr-maria-koutraki) (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
 - Genet-Asefa Gesese (PhD candidate) 
-- Tabea Tietz (Research Assistant)
-- Rima Türker (PhD candidate)
-- Daniela Kaun (Student co-worker)
-- Philipp Skudlik (Student co-worker)
+- [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Research Assistant)
+- [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (PhD candidate)
+- Radina Sofronova (Student co-worker)
 
 
 
