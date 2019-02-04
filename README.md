@@ -8,8 +8,8 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 
 - Prof. Dr. Harald Sack
 - Dr. Maria Koutraki (Post-Doc)
-- Russa Biswas (PhD candidate)
-- Genet-Asefa.Gesese (PhD candidate) 
+- [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
+- Genet-Asefa Gesese (PhD candidate) 
 - Tabea Tietz (Research Assistant)
 - Rima Türker (PhD candidate)
 - Daniela Kaun (Student co-worker)
