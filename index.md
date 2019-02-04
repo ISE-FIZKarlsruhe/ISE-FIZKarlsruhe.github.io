@@ -16,7 +16,7 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 ### Teaching
 
 ### Projects
-[Demos](https://ISE-FIZKarlsruhe.github.io/demos.md)
+[Demos](https://ISE-FIZKarlsruhe.github.io/demos)
 
 
 
