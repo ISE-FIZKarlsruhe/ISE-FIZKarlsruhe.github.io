@@ -13,6 +13,8 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 - [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (PhD candidate)
 - Radina Sofronova (Student co-worker)
 
+### Teaching
+
 ### Projects
 
 
