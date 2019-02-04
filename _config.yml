@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Information Service Engineering
 description: Research Group at FIZ Karlsruhe and KIT/AIFB
 url:                 http://ISE-FIZKarlsruhe.github.io
+show_downloads: true
