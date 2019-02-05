@@ -12,9 +12,11 @@ In order to develop and provide new information services, the research departmen
 - Radina Sofronova (Student co-worker)
 
 ## Teaching
-Wintersemester 2018/1"9: [Information Service Engineering Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en) at KIT (AIFB)
-Summersemester 2018: [Information Service Engineering Lecture](http://www.aifb.kit.edu/web/Lehre/Vorlesung_Information_Service_Engineering/en) at KIT (AIFB)
-MOOC Course: [Information Service Engineering](https://open.hpi.de/courses/semanticweb2017/) at openHPI
+Wintersemester 2018/1"9: [Information Service Engineering Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en) at KIT (AIFB)  
+Summersemester 2018: [Information Service Engineering Lecture](http://www.aifb.kit.edu/web/Lehre/Vorlesung_Information_Service_Engineering/en) at KIT (AIFB)  
+MOOC Course: [Information Service Engineering](https://open.hpi.de/courses/semanticweb2017/) at openHPI  
+
+
 
 
 
