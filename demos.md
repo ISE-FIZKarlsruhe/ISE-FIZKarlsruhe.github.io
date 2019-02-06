@@ -5,6 +5,6 @@
 
 [View on GitHub](https://github.com/ISE-FIZKarlsruhe/refer){: .btngreen}{:target="_blank"}
 [Demo](http://scihi.org/){: .btngreen}{:target="_blank"}
-[Download Plugin](https://github.com/ISE-FIZKarlsruhe/refer/blob/master/refer.zip){: .btngreen}{:target="_blank"}
+[Download Plugin](http://refer.cx/download/refer.zip){: .btngreen}{:target="_blank"}
 [Paper Publication](https://www.researchgate.net/publication/306370250_Semantic_Annotation_and_Information_Visualization_for_Blogposts_with_refer){: .btngreen}{:target="_blank"}
 
