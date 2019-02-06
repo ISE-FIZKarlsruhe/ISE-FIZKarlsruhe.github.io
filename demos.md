@@ -7,6 +7,14 @@
 [Read more](https://www.researchgate.net/publication/306370250_Semantic_Annotation_and_Information_Visualization_for_Blogposts_with_refer){: .btngreen}{:target="_blank"}
 
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 
 
