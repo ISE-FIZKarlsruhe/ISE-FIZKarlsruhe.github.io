@@ -1,6 +1,6 @@
 # _TECNE_ - Knowledge Based Text Classification Using Network Embeddings
 <img align="left" style="margin-right:20px" width="300" height="300" src="ISE-FIZKarlsruhe.github.io/KBTC_demo.png">
-<div style="text-align: justify"><i>TECNE</i> is a tool for Knowledge-Based text classification using network embeddings. TECNE does not require any labeled training data to classify an arbitrary text. Instead, it relies on the semantic similarity between entities appearing in a given text and a set of predefined categories to determine a category which the given document belongs to. 
+<div style="text-align: justify"><i>TECNE</i> is a tool for Knowledge-Based text classification using network embeddings. TECNE does not require any labeled training data to classify an arbitrary text. Instead, it relies on the semantic similarity between entities appearing in a given text and a set of predefined categories to determine a category which the given document belongs to. </div>
 [Demo](http://kbtc.fiz-karlsruhe.de/DemoFrontend/){: .btngreen}{:target="_blank"}
 [Paper Publication](http://ceur-ws.org/Vol-2262/ekaw-demo-18.pdf){: .btngreen}{:target="_blank"}
   
