@@ -10,7 +10,7 @@
   <i>refer</i> was created together with Jörg Waitelonis (<a href="https://yovisto.com/en/home-en/">yovisto GmbH</a>) and Joscha Jäger (<a href="https://filmicweb.org/">filmicweb</a>) and was partially funded by the Potsdam <a href="https://www.miz-babelsberg.de/home">Media Innovation Center</a>. The complete <i>refer</i> toolset was released as a wordpress plugin and is available for download. </div>
 
 [Info Webpage](https://refer.cx/){: .btngreensm}{:target="_blank"}
-[Demo](http://scihi.org/){: .btngreensm}{:target="_blank"}
+[Demo](http://scihi.org/){: .btngreen}{:target="_blank"}
 [Download Plugin](http://refer.cx/download/refer.zip){: .btngreensm}{:target="_blank"}
 [Paper Publication](https://www.researchgate.net/publication/306370250_Semantic_Annotation_and_Information_Visualization_for_Blogposts_with_refer){: .btngreensm}{:target="_blank"}
 
