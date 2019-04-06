@@ -4,12 +4,13 @@ In order to develop and provide new information services, the research departmen
 
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack) 
 - Vivien Vetter (Team Assistant)
+- Dr. Mehwish Alam (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
 - Genet-Asefa Gesese (PhD candidate) 
-- [Dr. Maria Koutraki](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-dr-maria-koutraki) (Post-Doc)
-- [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Research Assistant)
+- [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Scientific Co-Worker)
 - [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (PhD candidate)
 - Radina Sofronova (Student co-worker)
+- Kanran Zhou
 
 ## Teaching
 - Wintersemester 2018/19: [Information Service Engineering Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en) at KIT (AIFB)  
