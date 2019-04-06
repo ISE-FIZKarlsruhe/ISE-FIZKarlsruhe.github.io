@@ -6,12 +6,13 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack) 
 - Vivien Vetter (Team Assistant)
-- [Dr. Maria Koutraki](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-dr-maria-koutraki) (Post-Doc)
+- Dr. Mehwish Alam (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
 - Genet-Asefa Gesese (PhD candidate) 
-- [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Research Assistant)
+- [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Scientific Co-Worker)
 - [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (PhD candidate)
 - Radina Sofronova (Student co-worker)
+- Kanran Zhou
 
 ### Teaching
 
