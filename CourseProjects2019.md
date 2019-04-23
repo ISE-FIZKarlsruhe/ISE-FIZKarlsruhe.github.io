@@ -5,7 +5,7 @@ layout: default
 # Information Service Engineering Programming Course Projects
 ## Wintersemester 2018/19, Karlsruhe Institute of Technology (AIFB)
 
-<div style="text-align: justify">This page presents outcomes of the master student course _Information Service Engineering_ at KIT. Four student groups chose open cultural heritage datasets, developed and evaluated their own web-based applications, thereby utilizing and improving their knowledge in semantic web technologies, natural language processing (NLP), and machine learning (ML). The data used in this course are open cultural heritage datasets made available by the [Coding da Vinci](https://codingdavinci.de/about/) initiative, which confronted the students with interesting and mostly uncharted data to explore.</div>
+<div style="text-align: justify">This page presents outcomes of the master student course <i>Information Service Engineering</i> at KIT. Four student groups chose open cultural heritage datasets, developed and evaluated their own web-based applications, thereby utilizing and improving their knowledge in semantic web technologies, natural language processing (NLP), and machine learning (ML). The data used in this course are open cultural heritage datasets made available by the <a href="https://codingdavinci.de/about/">Coding da Vinci</a> initiative, which confronted the students with interesting and mostly uncharted data to explore.</div>
 
 Teaching Team: Russa Biswas, Maria Koutraki, Tabea Tietz, Rima Türker and Prof. Harald Sack
 
