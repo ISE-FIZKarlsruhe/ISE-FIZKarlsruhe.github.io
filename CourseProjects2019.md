@@ -12,7 +12,7 @@ Teaching Team: Russa Biswas, Maria Koutraki, Tabea Tietz, Rima Türker and Prof.
 ### A Linked Data Enhanced Museum Chatbot
 <div style="text-align: justify">In this project, a chatbot for the Städel Museum Frankfurt, Germany was developed to make museum visits more interesting for younger generations. The application is based on the Telegram messenger app and lets the user converse with a chatbot to receive information about art pieces and background information about artists, places or paintings integrated using Wikidata and DBpedia.</div> 
 
-### Exploring Historical Text using Word and Document Embeddings
+### HistorEx: Exploring Historical Text using Word and Document Embeddings
 <div style="text-align: justify">In this project a framework is presented which combines unsupervised ML techniques and NLP on the example of historical text documents on the 19th century USA. Named entities are identified and extracted from semi-structured text, which is enriched with complementary information from Wikidata. Word embeddings are leveraged to enable the analysis of the text corpus, which is visualized in a web-based application.</div> 
 
 ### Content-based Book Recommender System
