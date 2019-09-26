@@ -14,6 +14,7 @@ In order to develop and provide new information services, the research departmen
 - Kanran Zhou (Student co-worker)
 
 ## Teaching
+- Wintersemester 2019/20: [Information Service Engineering Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en) at KIT (AIFB)  
 - Summersemester 2019: [Information Service Engineering Lecture](https://campus.studium.kit.edu/ev/qYFGNlFZSTmjZCOeN5tfnQ/en) at KIT (AIFB) 
 - Wintersemester 2018/19: [Information Service Engineering Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en) at KIT (AIFB)  
 - Summersemester 2018: [Information Service Engineering Lecture](http://www.aifb.kit.edu/web/Lehre/Vorlesung_Information_Service_Engineering/en) at KIT (AIFB)  
