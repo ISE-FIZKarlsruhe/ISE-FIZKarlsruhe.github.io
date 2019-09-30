@@ -1,4 +1,7 @@
-In order to develop and provide new information services, the research department Information Service Engineering investigates models and methods for efficient semantic indexing, aggregation, linking, and retrieval of comprehensive heterogeneous and distributed data sources. To this end, both statistic and linguistic analysis methods (Natural Language Processing) as well as machine learning in combination with symbolic logic and interference mechanisms are applied.
+<div style="text-align: justify">In order to develop and provide new information services, the research department Information Service Engineering investigates models and methods for efficient semantic indexing, aggregation, linking, and retrieval of comprehensive heterogeneous and distributed data sources. To this end, both statistic and linguistic analysis methods (Natural Language Processing) as well as machine learning in combination with symbolic logic and interference mechanisms are applied.</div>
+
+[Publications](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#2019+publications){: .btngreensm}{:target="_blank"}
+[Projects](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#projects){: .btngreensm}{:target="_blank"}
 
 ## ISE Team
 
@@ -13,9 +16,6 @@ In order to develop and provide new information services, the research departmen
 - [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (Junior Researcher, PhD candidate)
 - Radina Sofronova (Student co-worker)
 - Kanran Zhou (Student co-worker)
-
-[Publications](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#2019+publications){: .btngreensm}{:target="_blank"}
-[Projects](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#projects){: .btngreensm}{:target="_blank"}
 
 
 ## Teaching
