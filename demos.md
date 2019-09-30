@@ -1,5 +1,5 @@
 ## Linked Stage Graph
-<img align="left" style="margin-right:20px" width="300" height="300" src="ISE-FIZKarlsruhe.github.io/slod.png">
+<img align="left" style="margin-right:20px" width="300" src="ISE-FIZKarlsruhe.github.io/slod.png">
 <div style="text-align: justify">Archives today are publishing their cultural heritage data on the Web for exploration. However, for archive novices the traditional archival structures often are not intuitive and difficult to understand, and thus challenges data access and consumption. To tackle this problem, Linked Stage Graph was developed, a Knowledge Graph on the foundation of historical data about the Stuttgart State Theater. The data was made available by the Baden-Württemberg State Archives for the Coding da Vinci hackathon. This demo paper contributes the KG, a SPARQL endpoint, named entity extraction and linking to existing authoritative KGs as well as a dedicated user interface for exploration.  <br>
 Linked Stage Graph was created together with Jörg Waitelonis (<a href="https://yovisto.com/en/home-en/">yovisto GmbH</a>) and Paul Felgentreff.</div>
 
