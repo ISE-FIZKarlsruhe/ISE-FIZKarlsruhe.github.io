@@ -14,6 +14,7 @@ Teaching Team: Russa Biswas, Maria Koutraki, Tabea Tietz, Rima Türker and Prof.
 - Sven Müller, Michael Brunzel, Daniela Kaun, Russa Biswas, Maria Koutraki, Tabea Tietz and Harald Sack:
 HistorEx: Exploring Historical Text Corpora Using Word and Document Embeddings, in: Proc. of the 16th Extended Semantic Web Conference, P&D Track. Download [Preprint](https://fizweb-p.fiz-karlsruhe.de/sites/default/files/FIZ/Dokumente/Forschung/ISE/Publications/2019-ESWC-D-HistorEx-Exploring-Historical-Text-Corpora.pdf) 
 
+<img align="center" width="600" src="ISE-FIZKarlsruhe.github.io/seminarscreenshots_nr.png">
 
 ### A Linked Data Enhanced Museum Chatbot
 <div style="text-align: justify">In this project, a chatbot for the Städel Museum Frankfurt, Germany was developed to make museum visits more interesting for younger generations. The application is based on the Telegram messenger app and lets the user converse with a chatbot to receive information about art pieces and background information about artists, places or paintings integrated using Wikidata and DBpedia.</div> 
