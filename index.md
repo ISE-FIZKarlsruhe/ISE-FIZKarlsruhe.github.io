@@ -6,13 +6,17 @@ In order to develop and provide new information services, the research departmen
 - Katja Kling (Team Assistant)
 - Vivien Vetter (Team Assistant)
 - [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
-- [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
-- [Genet-Asefa Gesese](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese) (PhD candidate) 
-- [Fabian Hoppe](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe) (PhD candidate)
-- [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Scientific Co-Worker)
-- [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (PhD candidate)
+- [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (Junior Researcher, PhD candidate)
+- [Genet-Asefa Gesese](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese) (Junior Researcher, PhD candidate) 
+- [Fabian Hoppe](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe) (Junior Researcher, PhD candidate)
+- [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Junior Researcher)
+- [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (Junior Researcher, PhD candidate)
 - Radina Sofronova (Student co-worker)
 - Kanran Zhou (Student co-worker)
+
+[Publications](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#2019+publications){: .btngreensm}{:target="_blank"}
+[Projects](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#projects){: .btngreensm}{:target="_blank"}
+
 
 ## Teaching
 - Wintersemester 2019/20: [Information Service Engineering Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en) at KIT (AIFB)  
