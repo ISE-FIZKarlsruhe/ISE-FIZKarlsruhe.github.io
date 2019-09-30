@@ -3,6 +3,7 @@ In order to develop and provide new information services, the research departmen
 ## ISE Team
 
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack) 
+- Katja Kling (Team Assistant)
 - Vivien Vetter (Team Assistant)
 - [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
