@@ -9,6 +9,7 @@ Linked Stage Graph was created together with Jörg Waitelonis (<a href="https://
 [Paper Publication](http://ceur-ws.org/Vol-2451/paper-27.pdf){: .btngreensm}{:target="_blank"}
 
 ## Information Service Engineering Student Projects (Wintersemester 2018/19)
+<img align="left" style="margin-right:20px" width="300" src="ISE-FIZKarlsruhe.github.io/seminarscreenshots_nr.png">
 <div style="text-align: justify">The outcomes of the master student course <i>Information Service Engineering</i> at KIT are presented here. Four student groups chose open cultural heritage datasets, developed and evaluated their own web-based applications, thereby utilizing and improving their knowledge in semantic web technologies, natural language processing (NLP), and machine learning (ML). The data used in this course are open cultural heritage datasets made available by the <a href="https://codingdavinci.de/about/">Coding da Vinci</a> initiative, which confronted the students with interesting and mostly uncharted data to explore.</div>
 [Go to Projects](/CourseProjects2019){: .btngreensm}{:target="_blank"}
 
