@@ -8,6 +8,7 @@
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack) 
 - Katja Kling (Team Assistant)
 - [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
+- Danilo Dessi (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (Junior Researcher, PhD candidate)
 - [Genet-Asefa Gesese](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese) (Junior Researcher, PhD candidate) 
 - [Fabian Hoppe](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe) (Junior Researcher, PhD candidate)
