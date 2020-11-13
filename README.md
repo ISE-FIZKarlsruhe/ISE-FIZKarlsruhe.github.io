@@ -4,8 +4,8 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 
 ### ISE Team
 
-- [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack) 
-- Vivien Vetter (Team Assistant)
+- [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/de/forschung/publikationen-prof-dr-harald-sack) 
+- Katja Kling (Team Assistant)
 - Dr. Mehwish Alam (Post-Doc)
 - Dr. Danilo Dessi (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
@@ -14,6 +14,7 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 - [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Scientific Co-Worker)
 - [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (PhD candidate)
 - Oleksandra Vsetsviatska (PhD candidate)
+- Yiyi Chen (PhD candidate)
 - Radina Sofronova (Student co-worker)
 
 ### Teaching
