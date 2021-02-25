@@ -21,8 +21,8 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 
 ### Teaching
 
-- [Knowledge Graphs] (https://open.hpi.de/courses/knowledgegraphs2020?locale=de), openHPI Massive Open Online Course (MOOC), 2020
-- [Information Service Engineering] (https://open.hpi.de/courses/semanticweb2017), openHPI Massive Open Online Course (MOOC), 2017
+- [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020?locale=de), openHPI Massive Open Online Course (MOOC), 2020
+- [Information Service Engineering](https://open.hpi.de/courses/semanticweb2017), openHPI Massive Open Online Course (MOOC), 2017
 
 ### Projects
 
