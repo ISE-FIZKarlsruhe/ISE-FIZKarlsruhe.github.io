@@ -9,15 +9,20 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 - Dr. Mehwish Alam (Post-Doc)
 - Dr. Danilo Dessi (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
-- Yiyi Chen (PhD candidate)
-- Genet-Asefa Gesese (PhD candidate) 
-- Fabian Hoppe (PhD candidate)
+- [Oleksandra Bruns] (https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-oleksandra-bruns) (PhD candidate)
+- [Yiyi Chen] (https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-yiyi-chen) (PhD candidate)
+- [Genet-Asefa Gesese] (https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-genet-asefa-gesese) (PhD candidate) 
+- [Fabian Hoppe] (https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-fabian-hoppe) (PhD candidate)
+- [Eulalie Monget] (https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-eulalie-monget) (PhD candidate)
+- [Mary Ann Tan] (https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-mary-ann-tan) (PhD candidate)
 - [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Scientific Co-Worker)
-- [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (PhD candidate)
-- Oleksandra Vsetsviatska (PhD candidate)
+- [Mahsa Vafaie] (https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-mahsa-vafaie) (PhD candidate)
 - Radina Sofronova (Student co-worker)
 
 ### Teaching
+
+- [Knowledge Graphs] (https://open.hpi.de/courses/knowledgegraphs2020?locale=de), openHPI Massive Open Online Course (MOOC), 2020
+- [Information Service Engineering] (https://open.hpi.de/courses/semanticweb2017), openHPI Massive Open Online Course (MOOC), 2017
 
 ### Projects
 
