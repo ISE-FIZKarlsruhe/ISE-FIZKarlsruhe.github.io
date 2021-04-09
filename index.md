@@ -8,22 +8,27 @@
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack) 
 - Katja Kling (Team Assistant)
 - [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
-- Danilo Dessi (Post-Doc)
+- [Dr. Danilo Dessi](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-danilo-dessi) (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (Junior Researcher, PhD candidate)
+- [Oleksandra Bruns](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-oleksandra-bruns) (Junior Researcher, PhD candidate)
+- [Yiyi Chen](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-yiyi-chen)Junior Researcher, PhD candidate)
 - [Genet-Asefa Gesese](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese) (Junior Researcher, PhD candidate) 
 - [Fabian Hoppe](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe) (Junior Researcher, PhD candidate)
-- Zahra Rezaie (Junior Researcher, PhD Candidate)
+- [MaryAnn Tan](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-mary-ann-tan)(Junior Researcher, PhD candidate)
 - [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Junior Researcher)
-- [Rima Türker](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-rima-tuerker) (Junior Researcher, PhD candidate)
+- [Mahsa Vafaie](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-mahsa-vafaie)(Junior Researcher, PhD candidate)
 - Radina Sofronova (Student co-worker)
 
 ### Former Members of the ISE Team
 - Vivien Vetter
 - Maria Koutraki
 - Farshad Bakhshandegan Moghaddam
+- Eulalie Monget
+- Zahra Razaie
+- Rima Türker
 
 ## Teaching
-- Upcoming MOOC: [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020) at openHPI
+- MOOC: [Knowledge Graphs](https://open.hpi.de/courses/knowledgegraphs2020) at openHPI
 - Summersemester 2020: [Information Service Engineering Lecture](http://www.aifb.kit.edu/web/Lehre/Vorlesung_Information_Service_Engineering/en)
 - Wintersemester 2019/20: [Information Service Engineering Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en) at KIT (AIFB)  
 - Summersemester 2019: [Information Service Engineering Lecture](https://campus.studium.kit.edu/ev/qYFGNlFZSTmjZCOeN5tfnQ/en) at KIT (AIFB) 
