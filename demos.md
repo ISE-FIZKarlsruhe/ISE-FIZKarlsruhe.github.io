@@ -20,7 +20,7 @@ Linked Stage Graph was created together with Jörg Waitelonis (<a href="https://
 [Paper Publication](http://ceur-ws.org/Vol-2262/ekaw-demo-18.pdf){: .btngreensm}{:target="_blank"}
   
 ## _refer_ - Semantic Annotation and Relation Exploration 
-<img align="left" style="margin-right:20px" width="300" height="300" src="https://github.com/ISE-FIZKarlsruhe/ISE-FIZKarlsruhe.github.io/blob/master/refer_sq.png">
+<img align="left" style="margin-right:20px" width="300" height="300" src="https://raw.githubusercontent.com/ISE-FIZKarlsruhe/ISE-FIZKarlsruhe.github.io/master/refer_sq.png">
 <div style="text-align: justify"><i>refer</i> is a tool for semantic annotation and visualization of textual content on the web. As part of <i>refer</i> Named Entity Linking enables content authors to semi-automatically annotate their texts with semantic entities from the English DBpedia and automatically visualize the enriched content for the users in an exploration environment that displays relations between entities, conten-based recommendations, additional information in infoboxes visualizations as well as time references. <br>
   <i>refer</i> was created together with Jörg Waitelonis (<a href="https://yovisto.com/en/home-en/">yovisto GmbH</a>) and Joscha Jäger (<a href="https://filmicweb.org/">filmicweb</a>) and was partially funded by the Potsdam <a href="https://www.miz-babelsberg.de/home">Media Innovation Center</a>. The complete <i>refer</i> toolset was released as a wordpress plugin and is available for download. </div>
 
