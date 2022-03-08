@@ -5,7 +5,7 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 ### ISE Team
 
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/de/forschung/publikationen-prof-dr-harald-sack) 
-- Dr. Mehwish Alam (https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
+- [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
 - Dr. Jörg Waitelonis (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
 - [Oleksandra Bruns](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-oleksandra-bruns) (PhD candidate)
@@ -15,7 +15,7 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 - [Mary Ann Tan](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-mary-ann-tan) (PhD candidate)
 - [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Scientific Co-Worker)
 - [Mahsa Vafaie](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-mahsa-vafaie) (PhD candidate)
-- Cristian Santini (PhD candidate)
+- [Cristian Santini](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-cristian-santini) (PhD candidate)
 - Etienne Posthumus (Senior Researcher)
 - Radina Sofronova (Student co-worker)
 
