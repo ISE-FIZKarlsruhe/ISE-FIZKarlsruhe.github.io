@@ -5,19 +5,12 @@ Webpage of the Information Service Engineering department at [FIZ Karlsruhe](htt
 ### ISE Team
 
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/de/forschung/publikationen-prof-dr-harald-sack) 
-- [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
-- Dr. Jörg Waitelonis (Post-Doc)
-- [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (PhD candidate)
 - [Oleksandra Bruns](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-oleksandra-bruns) (PhD candidate)
-- [Yiyi Chen](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-yiyi-chen) (PhD candidate)
 - [Genet-Asefa Gesese](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-genet-asefa-gesese) (PhD candidate) 
-- [Fabian Hoppe](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-fabian-hoppe) (PhD candidate)
 - [Mary Ann Tan](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-mary-ann-tan) (PhD candidate)
 - [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Scientific Co-Worker)
 - [Mahsa Vafaie](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-mahsa-vafaie) (PhD candidate)
-- [Cristian Santini](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-cristian-santini) (PhD candidate)
 - Etienne Posthumus (Senior Researcher)
-- Radina Sofronova (Student co-worker)
 
 ### Teaching
 
